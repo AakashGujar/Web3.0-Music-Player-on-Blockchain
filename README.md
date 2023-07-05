@@ -2,7 +2,7 @@
 
 This project is a web 3.0 music player that utilizes blockchain technology for decentralized music storage and streaming. It allows users to upload, store, and play music files securely and transparently.
 
-## Snapshots
+## Snapshot
 
 ![Screenshot 1](src/assets/s1.png)
 
